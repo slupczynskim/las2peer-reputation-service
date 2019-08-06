@@ -29,7 +29,7 @@ hs_err_pid*
 /tmp/
 /log/
 /lib/
-ivy.jar
+/etc/ivy/ivy.jar
 /service/
 /out/
 /.idea/
@@ -38,6 +38,6 @@ ivy.jar
 /.settings/
 /junitvmwatcher*.properties
 /junit*.properties
-/etc/
+/etc/startup/
 *.secret
 archiva_credentials.xml
